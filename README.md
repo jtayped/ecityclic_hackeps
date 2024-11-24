@@ -1,4 +1,4 @@
-# Tramit Sequence Prediction Model Documentation
+# Tramit Sequence Prediction Model
 
 ## Overview
 This notebook implements a deep learning model to predict the next likely "tramit" (transaction/procedure) in a sequence based on historical patterns. The model uses an LSTM architecture to learn patterns in sequences of tramits and can predict the most probable next tramits given a context window.
